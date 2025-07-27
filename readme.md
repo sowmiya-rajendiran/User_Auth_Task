@@ -44,4 +44,4 @@
     - Decode payload and attach user info to req.user.
 
 ## Deployed Link
-- 
+- https://user-auth-task.onrender.com/api/v1
